@@ -7297,14 +7297,14 @@
     "Gebiet": "Bayern",
     "parent": "Bayern",
     "Line2": " Akademie für Gesundheit und Lebensmittelsicherheit",
-    "Strasse": "Eggenreuther Weg 43",
-    "PLZ": "91058",
-    "Ort": "Erlangen",
-    "EMail": "poststelle@lgl.bayern.de",
-    "Tel": "09131 6808-0",
-    "Fax": "09131 6808-2102",
+    "Strasse": "Pfarrstraße 3",
+    "PLZ": "80538",
+    "Ort": "München",
+    "EMail": "agl@lgl.bayern.de",
+    "Tel": "09131 6808-4001",
+    "Fax": "09131 6808-4338",
     "Ebene": "Land",
-    "Abkuerzung": "LGL"
+    "Abkuerzung": "AGL"
   }
 },{
   "_id": {
